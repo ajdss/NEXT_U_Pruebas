@@ -1,3 +1,5 @@
 body {
-  background-image: url(../img/buffet_italia3.jpg);
-}
+  background-image: url(../img/buffet_italia.jpg);
+  background-size:cover;
+  background-attachment: fixed;
+  }
